@@ -1,5 +1,7 @@
 # Data-science
 Data science - Powerful as a black hole
+
+
 How more people die in Africa from contagious disease than from America?
 How apple become the most successful tech company and the most valuable on the planet earth?
 Why West considers China a bigger threat than Russia?
